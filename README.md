@@ -1,6 +1,6 @@
 # Citrux-OpenFl
 <b>Citrux</b> is a Cross-platfom 2D Game Engine developed on top of OpenFl 
-The codebase started largely from a Haxe port of the AS3 CitrusEngine .
+The codebase started largely from a Haxe port of the AS3 <a href="https://github.com/DaVikingCode/Citrus-Engine">CitrusEngine </a> .
 
 Citrux uses starling/Stage3d to render objects directly by the GPU, which leads to a massive performance boost .
 
